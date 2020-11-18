@@ -13,4 +13,4 @@
     yarn start
     3.默认执行src下的项目，这个主要是基础版的redux练习
     4.src-count3_react-redux文件名称可换成src，这时候就执行这里的，这里练习react-redux
-    5.src-count4_react-async文件名称可换成src，这时候就执行这里的，这里练习redux-thunk
+    5.src-redux-thunk文件名称可换成src，这时候就执行这里的，这里练习redux-thunk
