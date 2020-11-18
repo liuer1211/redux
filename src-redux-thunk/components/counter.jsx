@@ -50,6 +50,8 @@ export default class Counter extends React.Component {
         <button onClick={this.decrement}>-</button>{' '}
         <button onClick={this.incrementIfOdd}>increment if odd</button>{' '}
         <button onClick={this.incrementAsync}>increment async</button>
+
+
       </div>
     )
   }
